@@ -1,1 +1,2 @@
 add fileA.txt
+with bug fix feature 2
